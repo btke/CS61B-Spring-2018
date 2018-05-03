@@ -1,0 +1,63 @@
+All questions are optional, though try to answer at least 4. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: The staff implemented previous/next functions in order to make array indexing easier in the algorithm.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I felt proud of being able to implement circular sentinels and a circular loop. That was hard. 
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: Something that may be inelegant in my code is possibly the resize functions. They can be a little repetitive. 
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A: We all thought that the resize function was hard and my partner implemented the function in different ways. 
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: 
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A:
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: Yes I liked the design review process. It was a good learning experience. 
